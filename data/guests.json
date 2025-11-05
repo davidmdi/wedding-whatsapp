@@ -1,0 +1,51 @@
+[
+  {
+    "phone_number": "0547575492",
+    "name": "Anat Magen",
+    "rsvp_status": "pending",
+    "rsvp_date": "0001-01-01T00:00:00Z",
+    "invited_date": "2025-11-05T02:45:31.4629244+02:00"
+  },
+  {
+    "phone_number": "0538268277",
+    "name": "david",
+    "rsvp_status": "pending",
+    "rsvp_date": "0001-01-01T00:00:00Z",
+    "invited_date": "2025-11-05T02:46:37.2071389+02:00"
+  },
+  {
+    "phone_number": "972547575492",
+    "name": "David",
+    "rsvp_status": "pending",
+    "rsvp_date": "0001-01-01T00:00:00Z",
+    "invited_date": "2025-11-05T02:51:08.254495+02:00"
+  },
+  {
+    "phone_number": "972538268277",
+    "name": "Anat Magen",
+    "rsvp_status": "pending",
+    "rsvp_date": "0001-01-01T00:00:00Z",
+    "invited_date": "2025-11-05T02:55:17.6331203+02:00"
+  },
+  {
+    "phone_number": "1",
+    "name": "My Love",
+    "rsvp_status": "pending",
+    "rsvp_date": "0001-01-01T00:00:00Z",
+    "invited_date": "2025-11-05T03:25:45.2840775+02:00"
+  },
+  {
+    "phone_number": "972547575493",
+    "name": "rafi",
+    "rsvp_status": "declined",
+    "rsvp_date": "2025-11-05T21:16:12.7868633+02:00",
+    "invited_date": "2025-11-05T03:29:27.2976154+02:00"
+  },
+  {
+    "phone_number": "05382688277",
+    "name": "Anat Magen",
+    "rsvp_status": "pending",
+    "rsvp_date": "0001-01-01T00:00:00Z",
+    "invited_date": "2025-11-05T21:26:17.2581786+02:00"
+  }
+]
